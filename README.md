@@ -1,4 +1,4 @@
-## Hi there 👋
+## ご機妍よう、しろかです。
 
 <!--
 **shiro-ka/shiro-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
